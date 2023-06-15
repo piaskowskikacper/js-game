@@ -1,0 +1,27 @@
+#container{
+    padding: 20px;;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    border: 5px solid white;
+}
+
+#info{
+    text-align: right;
+}
+
+html * {
+    background-color: black;
+}
+
+#game{
+    width: 60%;
+    height: 60%;
+}
+
+#h2p{
+    display: block;
+    width: 30%;
+    text-align: left;
+}
